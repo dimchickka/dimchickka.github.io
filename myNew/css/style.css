@@ -1,0 +1,12 @@
+.box{
+  height: 50px;
+  background-color: #ccc;
+}
+.box1{
+  height: 50px;
+  background-color: red;
+  margin-top: 10px;
+}
+.box:hover{
+  background-color: green;
+}
